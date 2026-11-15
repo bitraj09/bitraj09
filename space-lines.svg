@@ -33,5 +33,5 @@
       <animateTransform attributeName="transform" type="translate" from="-50 20" to="1250 110" dur="5s" repeatCount="indefinite"/>
     </line>
   </g>
-  <text x="600" y="72" text-anchor="middle" font-family="monospace" font-size="18" fill="#FFC700" letter-spacing="4">✦ &nbsp;RAJ &nbsp;·&nbsp; IN &nbsp;ORBIT &nbsp;✦</text>
+  <text x="600" y="72" text-anchor="middle" font-family="monospace" font-size="18" fill="#FFC700" letter-spacing="4">✦ &#160;RAJ &#160;·&#160; IN &#160;ORBIT &#160;✦</text>
 </svg>
