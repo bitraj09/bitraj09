@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFC700,FF9500,FFD700,FFB800&height=180&section=header&text=RAJ%20RAVINDRA%20CHAVAN&fontSize=42&fontColor=1a1a00&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20LLMs%20%E2%80%A2%20RAG%20%E2%80%A2%20Agentic%20AI&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FFC700,100:FF9500&height=180&section=header&text=RAJ%20RAVINDRA%20CHAVAN&fontSize=42&fontColor=1a1a00&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20LLMs%20%E2%80%A2%20RAG%20%E2%80%A2%20Agentic%20AI&descAlignY=55&descAlign=50)
 
 <div align="center">
 
@@ -180,4 +180,4 @@ $ ./connect.sh
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFC700,FF9500,FFD700,FFB800&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFC700,100:FF9500&height=120&section=footer)
