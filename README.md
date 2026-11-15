@@ -1,104 +1,147 @@
-# Hi there, I'm Raj Ravindra Chavan 👋
+<div align="center">
 
-### AI/ML Engineer · Machine Learning · MLOps · LLMs & Agentic AI
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;LLMs+%2B+RAG+%2B+Agentic+AI;Computer+Vision+%7C+YOLO;MLOps+%7C+Production+ML)
 
-Final-year B.Tech Information Technology student (CGPA: **9.50/10**) building end-to-end ML systems — from data and models to production APIs.
+# `raj@bitraj09:~$ whoami`
 
-📍 Navi Mumbai, Maharashtra, India
-📧 rajravindrachavan09@gmail.com
-🌐 [bit-raj.tech](https://bit-raj.tech)
+**Raj Ravindra Chavan** — building AI that ships to production, not just notebooks.
 
----
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/bitraj09)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/bitraj09)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/bitraj09)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/bitraj09)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/bitraj09)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://github.com/bitraj09)
 
-## 🚀 What I do
+📍 Navi Mumbai, IN &nbsp;·&nbsp; 📧 rajravindrachavan09@gmail.com &nbsp;·&nbsp; 🌐 [bit-raj.tech](https://bit-raj.tech)
 
-- **End-to-end ML pipelines** — preprocessing, training, evaluation, deployment and monitoring
-- **Generative AI & LLMs** — RAG, Agentic AI, prompt engineering, LangChain, LlamaIndex, fine-tuning
-- **Computer Vision** — YOLO-based object detection, medical imaging, landmark detection
-- **MLOps & Production ML** — Docker, CI/CD, FastAPI, REST APIs, model versioning, AWS / GCP
-- **NLP** — Hugging Face Transformers, OpenAI API, vector databases (FAISS, Pinecone, ChromaDB)
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+</div>
 
 ---
 
-## ⭐ Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[Dental AI](https://github.com/bitraj09/Dental-AI-v2)** | End-to-end medical imaging & landmark detection for automated dental diagnostics, with an LLM reporting layer and RAG-grounded explanations | Custom YOLO, LLM, RAG, OpenCV, Python, NLP |
-| **[Dentforhemant](https://github.com/bitraj09/Dentforhemant)** | Dental imaging work built around OPG radiographs | Jupyter Notebook, Python |
-| **[Smart Roster — Datastraw](https://github.com/bitraj09/datastraw-smart-roster)** | Smart roster management with deterministic scheduling and validated change management | Next.js, TypeScript, PostgreSQL |
-| **[Supervised Learning](https://github.com/bitraj09/supervised-learning)** | Collection of supervised ML models, end to end | Python, scikit-learn |
-| **[Unsupervised Learning](https://github.com/bitraj09/unsupervised-learning)** | Clustering & unsupervised ML experiments | Python, Jupyter |
-| **[House Price Prediction](https://github.com/bitraj09/house-price-prediction-using-catboost-)** | Price prediction with CatBoost, linear regression, pandas & NumPy | CatBoost, scikit-learn, Python |
-| **[AI Rock–Paper–Scissors](https://github.com/bitraj09/stone-paper-scissors-game-)** | Real-time hand-gesture game using MediaPipe ML models | Python, OpenCV, MediaPipe |
-| **[Server Load Balancer](https://github.com/bitraj09/server-load-balancer-)** | Round-robin load balancer / reverse proxy for high-availability backends | Python |
-
-> 💡 **Flagship work:** Dental AI — custom YOLO on OPG radiographs + LLM diagnostic summaries + RAG over a curated dental knowledge base.
+```bash
+$ cat ./profile.json
+{
+  "role":        "AI/ML Engineer",
+  "focus":       ["LLMs", "RAG", "Agentic AI", "Computer Vision", "MLOps"],
+  "stack":       ["Python", "PyTorch", "TensorFlow", "FastAPI", "Docker", "Linux"],
+  "currently":   "Production LLM systems & biomedical AI",
+  "open_to":     ["AI/ML Roles", "GenAI Roles", "Research Collabs"],
+  "status":      "building_in_public"
+}
+```
 
 ---
 
-## 💼 Experience
+## `> ./what_i_build`
 
-**AI/ML & Full Stack Intern — Rudnesh Integrator Engineering Unlocked** · Jan 2025 – Apr 2025
-- Engineered end-to-end ML pipelines for predictive analytics, from preprocessing to production deployment
-- Built and containerized REST APIs (FastAPI, Docker) to serve TensorFlow & PyTorch models; automated CI/CD with Git & Linux
-
-**Cybersecurity Intern — Tutelr** · Jan 2024 – May 2024
-- Vulnerability assessments and security analysis on production systems, applying offensive & defensive techniques relevant to secure ML deployment
-
-**Mobile Application Development Intern — IOFT** · Jun 2023 – Dec 2023
-- Developed and optimized AI-enabled mobile apps across the full SDLC, including debugging, testing & REST API integration
+| Layer | I build |
+|---|---|
+| **🧠 GenAI / LLMs** | RAG pipelines, Agentic AI, prompt engineering, LangChain, LlamaIndex, fine-tuning, Hugging Face Transformers, OpenAI API |
+| **👁️ Computer Vision** | Custom YOLO object detection, medical imaging, landmark detection, OpenCV, MediaPipe |
+| **⚙️ MLOps / Prod ML** | End-to-end ML pipelines, Docker, CI/CD, FastAPI REST APIs, model deployment & versioning, AWS / GCP, Git, Linux |
+| **📊 Data** | Cleaning, preprocessing, feature engineering, validation, outlier detection, Pandas, NumPy, SQL, MySQL, MongoDB, FAISS / Pinecone / ChromaDB |
 
 ---
 
-## 🔬 Research & Patent
+## `> ./flagship_project --dental-ai`
 
-- 📄 **Research Paper — “Forensic Age Estimation Using AI”** — Author. Deep learning & computer vision for automated forensic age estimation from medical imaging.
-- 📜 **Patent — “OPG Landmarks Detection System”** — Inventor. AI-based system for automated landmark detection on orthopantomogram (OPG) dental radiographs.
+**Dental AI** — automated dental diagnostics, end to end.
 
----
+```mermaid
+flowchart LR
+    A[OPG Radiograph] --> B[Custom YOLO]
+    B --> C[Landmark Detection]
+    C --> D[LLM Reporting]
+    D --> E[RAG · Dental KB]
+    E --> F[Clinical Summary]
+```
 
-## 🎓 Education
+- Custom YOLO model trained on OPG radiographs for landmark detection
+- LLM layer auto-generates natural-language clinical summaries from detected landmarks
+- RAG module grounds explanations in a curated dental knowledge base — fewer hallucinations, more factual reports
 
-**B.Tech, Information Technology — Bharati Vidyapeeth Deemed University** · 2024–2027 · CGPA: **9.50/10**
-**Diploma, Information Technology — MSBTE** · 2021–2024 · 76%
-
-**Certifications:** Certified Python Developer · Cybersecurity (Tutelr) · Mobile Application Development
-
----
-
-## 📊 GitHub Stats
-
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitraj09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bitraj09&layout=compact&theme=tokyonight&hide_border=true)
+🔗 [Dental-AI-v2](https://github.com/bitraj09/Dental-AI-v2) · [Dentforhemant](https://github.com/bitraj09/Dentforhemant)
 
 ---
 
-## 🤝 Let's connect
+## `> ./featured_repos`
 
-I'm open to **AI/ML Engineer, ML Engineer, and Generative AI roles, internships, and research collaborations** — especially in computer vision, medical AI, and LLM applications.
+[![Dental AI](https://github-readme-stats.vercel.app/api/pin/?username=bitraj09&repo=Dental-AI-v2&theme=tokyonight&hide_border=true)](https://github.com/bitraj09/Dental-AI-v2)
+[![Smart Roster](https://github-readme-stats.vercel.app/api/pin/?username=bitraj09&repo=datastraw-smart-roster&theme=tokyonight&hide_border=true)](https://github.com/bitraj09/datastraw-smart-roster)
+[![Supervised Learning](https://github-readme-stats.vercel.app/api/pin/?username=bitraj09&repo=supervised-learning&theme=tokyonight&hide_border=true)](https://github.com/bitraj09/supervised-learning)
+[![Load Balancer](https://github-readme-stats.vercel.app/api/pin/?username=bitraj09&repo=server-load-balancer-&theme=tokyonight&hide_border=true)](https://github.com/bitraj09/server-load-balancer-)
+[![Rock Paper Scissors AI](https://github-readme-stats.vercel.app/api/pin/?username=bitraj09&repo=stone-paper-scissors-game-&theme=tokyonight&hide_border=true)](https://github.com/bitraj09/stone-paper-scissors-game-)
+[![Auto Labeller](https://github-readme-stats.vercel.app/api/pin/?username=bitraj09&repo=auto-labeller-&theme=tokyonight&hide_border=true)](https://github.com/bitraj09/auto-labeller-)
 
-📧 **rajravindrachavan09@gmail.com** · 🌐 **[bit-raj.tech](https://bit-raj.tech)**
+**Also on my stack:** House Price Prediction with CatBoost · Unsupervised Learning · Disk Analyzer · Flask OLAP app
 
-> Currently exploring biomedical AI and production LLM systems. If you're hiring or building in this space, let's talk.
+---
+
+## `> ./experience.log`
+
+```text
+2025-01 — 2025-04  AI/ML & Full Stack Intern @ Rudnesh Integrator Engineering Unlocked
+                    └─ End-to-end ML pipelines for predictive analytics
+                    └─ FastAPI + Docker APIs serving TensorFlow / PyTorch models
+                    └─ CI/CD automation with Git & Linux for production ML
+
+2024-01 — 2024-05  Cybersecurity Intern @ Tutelr
+                    └─ Vulnerability assessments on production systems
+                    └─ Offensive & defensive techniques for secure ML deployment
+
+2023-06 — 2023-12  Mobile App Development Intern @ IOFT
+                    └─ AI-enabled mobile apps, full SDLC
+                    └─ Debugging, testing & REST API integration
+```
+
+---
+
+## `> ./research --patent`
+
+```text
+[📄] PAPER   "Forensic Age Estimation Using AI" — Author
+             Deep learning + computer vision for automated
+             forensic age estimation from medical imaging.
+
+[📜] PATENT  "OPG Landmarks Detection System" — Inventor
+             AI-based automated landmark detection on
+             orthopantomogram (OPG) dental radiographs.
+```
+
+---
+
+## `> ./education`
+
+```text
+B.Tech, Information Technology — Bharati Vidyapeeth Deemed University · 2024–2027
+Diploma, Information Technology — MSBTE · 2021–2024
+
+Certifications: Certified Python Developer · Cybersecurity (Tutelr) · Mobile App Development
+Languages: English · Hindi · Marathi · German (Basic)
+```
+
+---
+
+## `> ./github_stats`
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=bitraj09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bitraj09&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitraj09&layout=compact&theme=tokyonight&hide_border=true)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=bitraj09&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+$ ./connect.sh
+> hiring for AI/ML, GenAI, or Computer Vision? let's talk.
+> rajravindrachavan09@gmail.com  ·  bit-raj.tech
+```
+
+</div>
