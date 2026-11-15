@@ -1,19 +1,18 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,9,20&height=180&section=header&text=RAJ%20RAVINDRA%20CHAVAN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20LLMs%20%E2%80%A2%20RAG%20%E2%80%A2%20Agentic%20AI&descAlignY=55&descAlign=50)
+
 <div align="center">
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;LLMs+%2B+RAG+%2B+Agentic+AI;Computer+Vision+%7C+YOLO;MLOps+%7C+Production+ML)
+![Banner](banner.jpg)
+
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00F0FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;LLMs+%2B+RAG+%2B+Agentic+AI;Computer+Vision+%7C+YOLO+%7C+Medical+AI;MLOps+%7C+Production+ML;Building+AI+that+ships%2C+not+just+notebooks)
+
+![Profile Views](https://komarev.com/ghpvc/?username=bitraj09&color=00F0FF&style=flat-square)
+![Followers](https://img.shields.io/github/followers/bitraj09?style=flat-square&color=00F0FF&logo=github)
+![Stars](https://img.shields.io/github/stars/bitraj09?style=flat-square&color=ff00aa&logo=github)
 
 # `raj@bitraj09:~$ whoami`
 
 **Raj Ravindra Chavan** — building AI that ships to production, not just notebooks.
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/bitraj09)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/bitraj09)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/bitraj09)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/bitraj09)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/bitraj09)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://github.com/bitraj09)
-
-📍 Navi Mumbai, IN &nbsp;·&nbsp; 📧 rajravindrachavan09@gmail.com &nbsp;·&nbsp; 🌐 [bit-raj.tech](https://bit-raj.tech)
 
 </div>
 
@@ -41,6 +40,12 @@ $ cat ./profile.json
 | **👁️ Computer Vision** | Custom YOLO object detection, medical imaging, landmark detection, OpenCV, MediaPipe |
 | **⚙️ MLOps / Prod ML** | End-to-end ML pipelines, Docker, CI/CD, FastAPI REST APIs, model deployment & versioning, AWS / GCP, Git, Linux |
 | **📊 Data** | Cleaning, preprocessing, feature engineering, validation, outlier detection, Pandas, NumPy, SQL, MySQL, MongoDB, FAISS / Pinecone / ChromaDB |
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,aws,gcp,linux,git,mysql,mongodb,js,ts,nextjs&theme=dark)
+
+</div>
 
 ---
 
@@ -123,6 +128,16 @@ Languages: English · Hindi · Marathi · German (Basic)
 
 ---
 
+## `> ./trophies`
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=bitraj09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
 ## `> ./github_stats`
 
 <div align="center">
@@ -131,6 +146,20 @@ Languages: English · Hindi · Marathi · German (Basic)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bitraj09&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitraj09&layout=compact&theme=tokyonight&hide_border=true)
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=bitraj09&theme=tokyo-night&hide_border=true)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bitraj09&theme=tokyonight)
+
+</div>
+
+---
+
+## `> ./snake --eats_my_contributions`
+
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/bitraj09/bitraj09/output/github-contribution-grid-snake-dark.svg)
+
+*The snake above is generated automatically every day — it eats my contributions. It appears after the first workflow run.*
 
 </div>
 
@@ -144,4 +173,8 @@ $ ./connect.sh
 > rajravindrachavan09@gmail.com  ·  bit-raj.tech
 ```
 
+📍 Navi Mumbai, IN &nbsp;·&nbsp; 📧 rajravindrachavan09@gmail.com &nbsp;·&nbsp; 🌐 [bit-raj.tech](https://bit-raj.tech)
+
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,9,20&height=120&section=footer)
