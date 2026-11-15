@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140">
+  <rect width="1200" height="140" fill="none"/>
+  <!-- constellation lines -->
+  <g stroke="#FFC700" stroke-width="1.5" opacity="0.7" fill="none">
+    <polyline points="80,90 220,40 360,95 500,35 640,90 780,45 920,95 1080,40">
+      <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="6s" repeatCount="indefinite"/>
+    </polyline>
+    <polyline points="150,120 300,70 450,115 600,60 750,110 900,65 1050,115" stroke="#FF9500" opacity="0.5">
+      <animate attributeName="stroke-dashoffset" from="0" to="1000" dur="8s" repeatCount="indefinite"/>
+    </polyline>
+  </g>
+  <!-- twinkling stars -->
+  <g fill="#FFD700">
+    <circle cx="80" cy="90" r="5"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="220" cy="40" r="6"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="360" cy="95" r="4"><animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="500" cy="35" r="7"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="640" cy="90" r="5"><animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="780" cy="45" r="6"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="920" cy="95" r="4"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="40" r="7"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="120" r="3" fill="#FFF3B0"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="450" cy="115" r="3" fill="#FFF3B0"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="750" cy="110" r="3" fill="#FFF3B0"><animate attributeName="opacity" values="1;0.2;1" dur="1.9s" repeatCount="indefinite"/></circle>
+    <circle cx="1050" cy="115" r="3" fill="#FFF3B0"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" repeatCount="indefinite"/></circle>
+  </g>
+  <!-- shooting star -->
+  <g>
+    <circle cx="0" cy="0" r="4" fill="#FFD700">
+      <animateTransform attributeName="transform" type="translate" from="-50 20" to="1250 110" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="0" x2="-70" y2="-18" stroke="#FFD700" stroke-width="2" opacity="0.8">
+      <animateTransform attributeName="transform" type="translate" from="-50 20" to="1250 110" dur="5s" repeatCount="indefinite"/>
+    </line>
+  </g>
+  <text x="600" y="72" text-anchor="middle" font-family="monospace" font-size="18" fill="#FFC700" letter-spacing="4">✦ &nbsp;RAJ &nbsp;·&nbsp; IN &nbsp;ORBIT &nbsp;✦</text>
+</svg>
